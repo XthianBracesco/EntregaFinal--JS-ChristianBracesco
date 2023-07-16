@@ -1,0 +1,38 @@
+[
+    {
+        "precio": 40,
+        "id": 1,
+        "title": "audifonos 1",
+        "thumbnailUrl": "images/img-1.jpg"
+    },
+    {
+        "precio": 30,
+        "id": 2,
+        "title": "audifonos 2",
+        "thumbnailUrl": "images/img-2.jpg"
+    },
+    {
+        "precio": 85,
+        "id": 3,
+        "title": "audifonos 3",
+        "thumbnailUrl": "images/img-3.jpg"
+    },
+    {
+        "precio": 40,
+        "id": 4,
+        "title": "audifonos 4",
+        "thumbnailUrl": "images/img-4.jpg"
+    },
+    {
+        "precio": 120,
+        "id": 5,
+        "title": "audifonos 5",
+        "thumbnailUrl": "images/img-5.jpg"
+    },
+    {
+        "precio": 50,
+        "id": 6,
+        "title": "audifonos 6",
+        "thumbnailUrl": "images/img-6.jpg"
+    }
+]
